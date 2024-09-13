@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @Penn-paotr.
-- 👀 I’m interested in web developpment, either with MERN stack or with the PHP framework Symfony.
-- 🌱 I’m currently learning REACT and Symfony.
-- 💞️ I've just started to follow a course at the Fabrique du Numérique Paloise in order to become an App Designer and Developper.
+- 👀 I am interested in developing software for both business management and IoT applications.
+- 🌱 I’m currently learning C# and Angular.
+- 💞️ I've just started to follow a course at the Fabrique du Numérique Paloise in order to become an App Designer and Developer.
 -  I’m looking to collaborate on challenging projects under professional training contract.
 - 📫 You can reach me on Discord  at Penn-paotr.
   
